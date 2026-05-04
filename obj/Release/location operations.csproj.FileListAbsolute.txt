@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\location operations.exe.config
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\location operations.exe
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\location operations.pdb
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\EntityFramework.dll
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\EntityFramework.xml
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location operations.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location_operations.Form1.resources
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location_operations.Properties.Resources.resources
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location operations.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location operations.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location.D4813B06.Up2Date
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location operations.exe
+C:\Users\MSI\Desktop\projects\c#\location operations\location operations\obj\Release\location operations.pdb
